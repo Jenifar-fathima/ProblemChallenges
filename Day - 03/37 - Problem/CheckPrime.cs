@@ -1,7 +1,4 @@
-﻿using System;
-using System.Security.Cryptography.X509Certificates;
-
-namespace CheckPrimeProblem;
+﻿namespace CheckPrimeProblem;
 class CheckPrime
 {
     public static void Solution()

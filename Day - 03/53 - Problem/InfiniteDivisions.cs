@@ -9,12 +9,12 @@
             do
             {
                 Console.Write("Enter the first Number :");
-                bool IsNum1 = int.TryParse(Console.ReadLine(), out nNum1);
+                _ = int.TryParse(Console.ReadLine(), out nNum1);
                 
                 if (nNum1 != 0)
                 {
                     Console.Write("Enter the second Number :");
-                    bool IsNum2 = int.TryParse(Console.ReadLine(), out nNum2);
+                    _ = int.TryParse(Console.ReadLine(), out nNum2);
 
                     if (nNum2 == 0)
                     {
