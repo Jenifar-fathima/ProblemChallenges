@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProblemChallenges": {
+      "commandName": "Project",
+      "commandLineArgs": "1 x 2"
+    }
+  }
+}
