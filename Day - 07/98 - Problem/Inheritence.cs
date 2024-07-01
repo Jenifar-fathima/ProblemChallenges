@@ -1,0 +1,7 @@
+﻿namespace InheritenceProblem
+{
+    class Inheritence
+    {
+
+    }
+}
