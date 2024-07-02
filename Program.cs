@@ -1,4 +1,5 @@
 ﻿using AbsoluteValueProblem;
+using AbstractClassesProblem;
 using AccessControlProblem;
 using ArraySearchProblem;
 using ArrayStructProblem;
@@ -46,8 +47,11 @@ using HollowSquareProblem;
 using IfCalculatiionProblem;
 using InfiniteDivisionsProblem;
 using InfiniteSumProblem;
+using InheritenceProblem;
+//using InheritenceProblem;
 using InstructionDoWhileProblem;
 using InstructionWhileProblem;
+using InterfaceProgramProblem;
 //using MainParameterProblem;
 using MathematicalStatisticsProblem;
 using MaxNumArrayProblem;
@@ -70,6 +74,8 @@ using OddSumProblem;
 using OrderOfPriorityProblem;
 using PalindromeProblem;
 using ParallelogramProblem;
+using ParentClassProblem;
+using PhoneBookClassProblem;
 using PolynomialSequenceProblem;
 using PositiveArrayProblem;
 using PositiveNegativeSearchProblem;
@@ -209,7 +215,12 @@ using WriteTitleProblem;
 //MinAndMax.Solution();
 //Palindrome.Solution();
 //ToStringMethod.Solution();
-ConstructorAndDestructor.Solution();
+//ConstructorAndDestructor.Solution();
+//PhoneBookClass.Solution();
+//Inheritence.Solution();
+//InterfaceProgram.Solution();
+AbstractClasses.Solution();
+
 
 
 //======================================================================================================
@@ -234,3 +245,4 @@ ConstructorAndDestructor.Solution();
 //SumOfDigits.Solution();
 //PrimeNumber.Solution();
 //CommutativeMatrix.Solution();
+//ParentClass.Solution();
